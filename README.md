@@ -3,5 +3,5 @@ The project contains 2 scripts (index and navbar), which, with the help of the [
 
 ## More about the Puppeteer
 - [Puppeteer Documentation](https://devdocs.io/puppeteer/);
-- [Puppeteer API](https://pptr.dev/api/);
+- [Puppeteer API](https://pptr.dev/api/).
 
